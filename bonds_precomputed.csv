@@ -1,0 +1,6 @@
+BondID,Coupon,Frequency,MonthsSinceCoupon,accrued_interest
+BOND1,0.05,2,3,1.25
+BOND2,0.04,1,6,2.0
+BOND3,0.06,2,4,1.9999999999999998
+BOND4,0.03,1,6,1.5
+BOND5,0.07,2,1,0.5833333333333334
